@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Tom" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="79445012-5240-44da-ba98-a1c42701e74b" name="Default Changelist" comment="" />
+    <list default="true" id="79445012-5240-44da-ba98-a1c42701e74b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leon/fgf/entity/MyTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,6 +51,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1nEp9c31Kvk99KBY5DXqsXwUlAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,9 +59,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -43,21 +85,84 @@
       <option name="presentableId" value="Default" />
       <updated>1610964953770</updated>
       <workItem from="1610964963236" duration="44000" />
-      <workItem from="1614933497295" duration="51000" />
+      <workItem from="1614933497295" duration="4718000" />
     </task>
+    <task id="LOCAL-00001" summary="测试上传">
+      <created>1614942089061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614942089061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Tom" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试上传" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="477" y="149" key="#Web_Browsers" timestamp="1614934166518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="149" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1614934166518" />
+    <state x="156" y="0" key="CommitChangelistDialog2" timestamp="1614942088035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="156" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614942088035" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1614933534657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614933534657" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1614933547171">
+    <state x="494" y="281" key="Github.CreateGistDialog" timestamp="1614934209005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614933547171" />
+    <state x="494" y="281" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1614934209005" />
+    <state x="527" y="260" width="311" height="266" key="Github.ShareDialog" timestamp="1614935518431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="527" y="260" width="311" height="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1614935518431" />
+    <state x="315" y="65" key="Github.UntrackedFilesDialog" timestamp="1614933582643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="315" y="65" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614933582643" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1614934002721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614934002721" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1614944123348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614944123348" />
+    <state x="349" y="150" key="git4idea.merge.GitPullDialog" timestamp="1614943946478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1614943946478" />
   </component>
 </project>
